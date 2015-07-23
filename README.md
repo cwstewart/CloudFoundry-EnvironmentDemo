@@ -5,4 +5,9 @@ This is a small, simple, Java Spring Boot application suitable for use as a demo
 
 To be easily "forkable" in Git, this needs to be a top-level project in the repository.
 
+<<<<<<< HEAD
 WORKING????
+=======
+Ready to see some magic!??
+
+>>>>>>> e5a374cc0f95785ecd40d9fc8f2fba038964e186
